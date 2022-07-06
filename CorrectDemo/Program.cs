@@ -9,13 +9,14 @@
                 //Account newAcc = new Account();
                 //newAcc.Password = "123";
                 //newAcc.Name = "az";
-                //newAcc.Username = "az";
+                //newAcc.Username = "az";       
                 //db.Users.Add(newAcc);
                 var a = db.Users.Where(user => "az" == "az").ToArray();
 
                 Playlist playlist = new Playlist();
                 playlist.Name = "d";
-               // playlist.Songs = new List<Song>();
+                // playlist.Songs = new List<Song>();
+                
                 
                 
 
