@@ -1,4 +1,7 @@
-﻿namespace CorrectDemo
+﻿using CorrectDemo.Models;
+
+
+namespace CorrectDemo
 {
     internal class Program
     {
