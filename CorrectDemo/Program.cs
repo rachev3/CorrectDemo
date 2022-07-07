@@ -7,10 +7,9 @@ namespace CorrectDemo
     {
         static void Main(string[] args)
         {
-            using (var db = new DataBase())
-            {               
+            //C:\Users\User\AppData\Local\CorrectDemo.db
+            MainMenu.Menu();
 
-            }
         }
     }
 }
